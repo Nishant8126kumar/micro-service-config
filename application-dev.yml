@@ -1,5 +1,8 @@
 user:
   name: dev-config-server
+spring:
+  application:
+    name: application-dev-server
 
 eureka:
   client:

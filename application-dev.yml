@@ -1,8 +1,6 @@
-user:
-  name: dev-config-server
 spring:
   application:
-    name: application-dev-server
+    name: shipment-mgmt-service
 
 server:
   port: 9095

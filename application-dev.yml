@@ -1,6 +1,3 @@
-server:
-  port: 9095
-
 user:
   name: dev-config-server
 spring:
